@@ -1,28 +1,6 @@
-# ALX HTML & CSS Advanced
+# ALX HTML & CSS 
 
-Welcome to the ALX HTML & CSS Advanced project! This repository contains advanced HTML and CSS concepts to help you build modern, responsive, and visually appealing web pages.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-This project is part of the ALX curriculum and aims to teach advanced HTML and CSS techniques. By the end of this project, you will have a solid understanding of semantic HTML, CSS Flexbox, CSS Grid, responsive design, and more.
-
-## Features
-
-- Semantic HTML elements
-- Responsive design using media queries
-- Advanced CSS techniques (Flexbox, Grid)
-- Custom animations and transitions
-- Cross-browser compatibility
-
+Welcome my ALX HTML & CSS Advanced project! This repository contains my advanced HTML and CSS project.
 ## Installation
 
 To get started, clone this repository to your local machine:
