@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-image: url('path-to-your-image.jpg'); 
+    background-image: url('Object.png');
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
@@ -43,7 +43,6 @@ header .cta-button {
 header .cta-button:hover {
     background-color: #8000ff;
 }
-
 
 header .logo img {
     height: 40px;
@@ -93,7 +92,7 @@ nav ul li a {
 }
 
 .quotes {
-    background-color: #f0f0f0;
+    background-color: purple;
     padding: 40px 20px;
     text-align: center;
 }
@@ -154,6 +153,36 @@ nav ul li a {
     transform: translate(-50%, -50%);
 }
 
+.tutorials {
+    display: flex; 
+    gap: 20px; 
+    justify-content: center; 
+    padding: 40px 20px;
+}
+
+.tutorial {
+    width: 22%;     
+    text-align: center; 
+}
+
+.tutorial img {
+    width: 100%; 
+    height: auto; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.tutorial h3 {
+    font-size: 1.2rem;
+    color: #333;
+    margin-top: 10px;
+}
+
+.tutorial p {
+    font-size: 0.9rem;
+    color: #666;
+    margin: 5px 0;
+}
 .membership {
     background-color: #0d1b2a;
     color: white;
