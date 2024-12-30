@@ -13,8 +13,9 @@ header {
     height: 100vh; 
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    padding: 10px 20px;
     text-align: center;
     color: #fff; 
 }
@@ -45,8 +46,23 @@ header .cta-button:hover {
 }
 
 header .logo img {
+    margin: 0;
     height: 40px;
 }
+.header-right nav ul { 
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex; 
+} 
+.header-right nav ul li { 
+    margin-left: 20px; 
+} 
+
+.header-right nav ul li a {
+    text-decoration: none;
+    
+    }
 
 nav ul {
     display: flex;
@@ -67,14 +83,15 @@ nav ul li a {
 
 .banner {
     text-align: center;
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url("CSS Advanced/smile.png") no-repeat center center/cover;
+    /* background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url("CSS Advanced/smile.png") no-repeat center center/cover; */
     color: white;
+    margin-top: 20px;
     padding: 100px 20px;
 }
 
 .banner h1 {
     font-size: 48px;
-    margin: 0;
+    margin: 10px 0;
 }
 
 .banner p {
