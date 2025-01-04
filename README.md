@@ -1,6 +1,6 @@
 # ALX HTML & CSS 
 
-Welcome to my ALX HTML & CSS Advanced project! This repository contains my advanced HTML and CSS project.
+Welcome to my ALX HTML & CSS Advanced project repository! This repository contains my advanced HTML and CSS project.
 ## Installation
 
 To get started, clone this repository to your local machine:
