@@ -3,7 +3,7 @@
 Welcome to my ALX HTML & CSS Advanced project repository! This repository contains my advanced HTML and CSS project.
 ## Installation
 
-To get started, clone this repository to your local machine:
+If you want to get started on this project, clone this repository to your computer:
 
 ```bash
 git clone https://github.com/yourusername/alx_html_css.git
